@@ -1,6 +1,7 @@
 _site
 .idea/*
 *.iml
+.todo
 
 # Thumbnails
 ._*
